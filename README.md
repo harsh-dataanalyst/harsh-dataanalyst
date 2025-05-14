@@ -28,8 +28,8 @@ I'm a data analyst with a strong interest in transforming raw data into actionab
 ## Contact
 
 - 📧 **Email**: harshgupta11x@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/hganalyst](https://www.linkedin.com/in/hganalyst)  
-- 🧑‍💼 **Fiverr**: [fiverr.com/harshgupta11x](https://www.fiverr.com/harshgupta11x)
+- 💼 **LinkedIn**: [linkedin.com/in/hganalyst](https://www.linkedin.com/in/hganalyst/)  
+- 🧑‍💼 **Fiverr**: [fiverr.com/harshgupta11x](https://www.fiverr.com/databyharsh?public_mode=true)
 
 ---
 
@@ -40,7 +40,7 @@ I'm always open to collaboration, freelancing opportunities, or simply connectin
 Feel free to connect on LinkedIn or explore my freelance services on Fiverr. Let’s turn data into decisions together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hganalyst)
-[![Fiverr](https://img.shields.io/badge/Fiverr-View%20Profile-green?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/harshgupta11x)
+[![Fiverr](https://img.shields.io/badge/Fiverr-View%20Profile-green?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/databyharsh?public_mode=true)
 
 ---
 
