@@ -20,8 +20,8 @@ I'm a data analyst with a strong interest in transforming raw data into actionab
 - **Languages**: SQL, Python (Pandas, NumPy)  
 - **Visualization**: Power BI, Matplotlib, Seaborn  
 - **Data Handling**: Excel, Jupyter Notebook  
-- **Databases**: MySQL, PostgreSQL  
-- **Other Tools**: Git, GitHub, VS Code
+- **Databases**: MySQL 
+- 
 
 ---
 
