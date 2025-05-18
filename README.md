@@ -21,7 +21,6 @@ I'm a data analyst with a strong interest in transforming raw data into actionab
 - **Visualization**: Power BI, Matplotlib, Seaborn  
 - **Data Handling**: Excel, Jupyter Notebook  
 - **Databases**: MySQL 
-- 
 
 ---
 
