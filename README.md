@@ -2,7 +2,7 @@
 
 **Data Analyst | SQL | Power BI | Excel | Python**
 
-I'm a data analyst with a strong interest in transforming raw data into actionable insights. Currently enrolled in the **Codebasics Data Analyst Bootcamp**, I focus on applying practical skills to real-world business problems through data storytelling and automation.
+I'm a data analyst with a strong interest in transforming raw data into actionable insights. I focus on applying practical skills to real-world business problems through data storytelling and automation.
 
 ---
 
